@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: rogeryeh/grandoak432
+description: 
 theme: just-the-docs
+url: https://rogeryeh.art/432grandoak
 
-url: https://just-the-docs.github.io
+search_enabled: true
+search:
+  heading_level: 3
+  button: true
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+logo: "/assets/images/log.png"
+
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
